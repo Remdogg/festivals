@@ -1,0 +1,25 @@
+body {
+  background-color: #eaffe8;
+}
+h1,h2,h3 {
+  font-family: 'Bungee Hairline', cursive;
+  font-weight: bold;
+}
+small{
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+#Face, #Face2{
+  height:350px;
+  border-radius: 50%;
+}
+
+ .thumbnail {
+  background-color: #faceff;
+  padding-top: 20px;
+}
